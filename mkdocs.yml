@@ -1,0 +1,7 @@
+site_name: MLOps Consulting
+theme:
+  name: material
+  palette:
+    scheme: slate
+    #primary: indigo
+    primary: deep orange
