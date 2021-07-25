@@ -1,7 +1,19 @@
 site_name: MLOps Consulting
 theme:
+  favicon: images/icon.png
+  logo: images/icon.png
   name: material
   palette:
     scheme: slate
     #primary: indigo
     primary: deep orange
+markdown_extensions:
+  - attr_list
+
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/lmarsden
+
+copyright: MLOps Consulting Ltd is registered company 12615486 in the United Kingdom.
+ 
