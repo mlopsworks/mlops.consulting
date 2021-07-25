@@ -102,7 +102,7 @@ Chassis integrates MLflow with KFServing and Modzy.
 
 The [SAME Project](https://sameproject.org) is David Aronchick's latest project after he co-founded Kubernetes and Kubeflow at Google.
 
-We added declarative infrastructure support to SAME via the [terrachain](https://combinator.ml/terrachain), enabling easy deployment of MLflow alongside Kubeflow Pipelines, enabled metadata auto-logging in the SAME notebook-to-pipeline compiler for better ML governance, and enabled metadata import/export for better collaboration between ML research teams. [Demo](https://youtu.be/e3PXX69kZA8).
+We added declarative infrastructure support to SAME via [terrachain](https://combinator.ml/terrachain), enabling easy deployment of MLflow alongside Kubeflow Pipelines, enabled metadata auto-logging in the SAME notebook-to-pipeline compiler for better ML governance, and enabled metadata import/export for better collaboration between ML research teams. [Demo](https://youtu.be/e3PXX69kZA8).
 
 <div style="clear:both;"></div>
 <hr />
