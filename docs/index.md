@@ -174,7 +174,7 @@ The projects we take on are generally aligned around furthering and making it ea
 
 We believe in applying the best practices of software engineering & DevOps to the MLOps space, where they are sorely lacking in common practice today.
 
-Reproducibility, provenance, observability and version control are all things that software & DevOps teams take for granted.
+Reproducibility, provenance, CI/CD, observability and version control are all things that software & DevOps teams take for granted.
 
 For AI/ML to emerge from research and deliver true business value, the same problems must be solved for data & ML.
 
