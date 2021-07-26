@@ -168,7 +168,7 @@ Carlos is an extremely sharp software engineer who can develop high quality MLOp
 
 ## Principles
 
-We see a future where AI/ML is pervasive throughout the tech industry, and sophisticated teams assemble their MLOps platform from a set of best-of-breed components, just like how software & DevOps teams do today.
+We see a future where AI/ML is pervasive throughout every industry, and sophisticated technology teams assemble their MLOps platform from a set of best-of-breed components, just like how software & DevOps teams do today.
 
 The projects we take on are generally aligned around furthering and making it easier to integrate these best-of-breed components into full end-to-end MLOps stacks that enable better productivity & governance for ML & MLOps teams.
 
