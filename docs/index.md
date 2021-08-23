@@ -138,7 +138,7 @@ We are applying this technology to power the test drive capability in [Combinato
 
 **Luke Marsden, founder and owner of MLOps Consulting**
 
-Luke is a technical leader and entrepreneur who developed end-to-end MLOps platform company Dotscience.
+[Luke](https://lukemarsden.net/about/) is a technical leader and entrepreneur who developed end-to-end MLOps platform company Dotscience.
 He was Kubernetes SIG lead for cluster-lifecycle, creating [kubeadm](https://kubernetes.io/blog/2016/09/how-we-made-kubernetes-easy-to-install/) with Joe Beda, and worked on Docker plugins with Solomon Hykes.
 
 <div style="clear:both;"></div>
