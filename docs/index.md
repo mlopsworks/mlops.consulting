@@ -149,7 +149,7 @@ He was Kubernetes SIG lead for cluster-lifecycle, creating [kubeadm](https://kub
 
 **Phil Winder, associate, and founder of [Winder Research](https://winderresearch.com/)**
 
-Phil is one of those rare people who deeply understands both the mathematics of ML and the software engineering best practice of DevOps.
+Phil is one of those rare people who deeply understands both the mathematics of ML and the software engineering best practice of DevOps and MLOps.
 He wrote the book on [Reinforcement Learning](https://rl-book.com/).
 
 <div style="clear:both;"></div>
