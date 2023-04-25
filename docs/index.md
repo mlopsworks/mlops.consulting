@@ -30,7 +30,7 @@ We run bespoke projects in LLMs (Large Language Models) and MLOps (DevOps for Ma
 
 We are helping a team of lawyers develop novel AI-powered tools to help enterprises and SaaS companies generate more revenue and reduce risk.
 
-In the process we are developing tooling around the OpenAI API as well as vector databases for contract analysis.
+In the process we are developing tooling around the OpenAI API and vector databases for contract analysis.
 
 <div style="clear:both;"></div>
 <hr />
