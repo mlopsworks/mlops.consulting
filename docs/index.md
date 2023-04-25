@@ -11,7 +11,7 @@ We are MLOps platform, product and engineering specialists.
 
 <hr />
 
-## What We Do 
+## What We Do
 
 We run bespoke projects for end-users and vendors in MLOps, the emerging field of DevOps for Machine Learning:
 
