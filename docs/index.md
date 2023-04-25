@@ -39,7 +39,9 @@ In the process we are developing tooling around the OpenAI API as well as vector
 
 ### Franchise Cloud
 
-We are helping [Franchise Cloud](https://franchisecloud.io) &mdash; who started with a tech stack for franchisee/franchisor management -- add AI capabilities to their stack for marketing, onboarding and training franchisees, which is revolutionizing their business.
+We are helping [Franchise Cloud](https://franchisecloud.io) &mdash; who started with a tech stack for franchisee/franchisor management &mdash; add AI capabilities to their stack.
+
+This is enabling AI use cases for marketing, onboarding and training franchisees, which is revolutionizing their business.
 
 <div style="clear:both;"></div>
 <hr />
