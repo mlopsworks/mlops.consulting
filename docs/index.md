@@ -4,17 +4,18 @@
 
 # Hi, we're MLOps Consulting 👋
 
-![Luke, Phil and Carlos](images/amigos.png){ width=500px }
+![Luke, Phil and Kai](images/amigos.png){ width=500px }
 
-We are Luke, Phil and Carlos.
-We are MLOps platform, product and engineering specialists.
+We are Luke, Phil and Kai.
+We are LLM and MLOps platform, product and engineering specialists.
 
 <hr />
 
 ## What We Do
 
-We run bespoke projects for end-users and vendors in MLOps, the emerging field of DevOps for Machine Learning:
+We run bespoke projects in LLMs (Large Language Models) and MLOps (DevOps for Machine Learning):
 
+* Developing LLM-powered apps and stacks, such as Legal AI assistants.
 * Helping end-user companies evaluate the best MLOps stack for them.
 * Integrating MLOps tools together to develop end-to-end MLOps stacks.
 * Spinning out open source projects to become MLOps stack components.
@@ -22,6 +23,25 @@ We run bespoke projects for end-users and vendors in MLOps, the emerging field o
 <hr />
 
 ## Case Studies
+
+![](images/legalai.png){ width=400px, align=right }
+
+### Legal AI
+
+We are helping a team of lawyers develop novel AI-powered tools to help enterprises and SaaS companies generate more revenue and reduce risk.
+In the process we are developing tooling around the OpenAI API as well as vector stores for document search.
+
+<div style="clear:both;"></div>
+<hr />
+
+![](images/franchisecloud.png){ width=400px, align=right }
+
+### Franchise Cloud
+
+We are helping a company that originally had a tech stack for franchisee/franchisor management add AI capabilities to their stack for marketing, onboarding and training franchisees, which is revolutionizing their business.
+
+<div style="clear:both;"></div>
+<hr />
 
 ![](images/intellisense.png){ width=400px, align=right }
 
@@ -132,7 +152,7 @@ We are applying this technology to power the test drive capability in [Combinato
 
 ## Who We Are
 
-![Luke Marsden](images/luke.png){ width=200px, align=left }
+![Luke Marsden](images/team_luke.png){ width=200px, align=left }
 
 <br />
 
@@ -143,7 +163,7 @@ He was Kubernetes SIG lead for cluster-lifecycle, creating [kubeadm](https://kub
 
 <div style="clear:both;"></div>
 
-![Phil Winder](images/phil.png){ width=200px, align=left }
+![Phil Winder](images/team_phil.png){ width=200px, align=left }
 
 <br />
 
@@ -154,13 +174,13 @@ He wrote the book on [Reinforcement Learning](https://rl-book.com/).
 
 <div style="clear:both;"></div>
 
-![Carlos Millan](images/carlos.png){ width=200px, align=left  }
+![Kai Davenport](images/team_kai.png){ width=200px, align=left  }
 
 <br />
 
-**Carlos Millán, associate software engineer**
+**Kai Davenport, associate senior engineer**
 
-Carlos is an extremely sharp software engineer who can develop high quality MLOps software and integrations at speed. He is proficient in Python, Golang and more.
+Kai is an extremely sharp software engineer who can develop high quality MLOps software and integrations at speed. He is proficient in Python, Golang and more.
 
 <div style="clear:both;"></div>
 
