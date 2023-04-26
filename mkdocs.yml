@@ -16,4 +16,7 @@ extra:
       link: https://twitter.com/lmarsden
 
 copyright: MLOps Consulting Ltd is registered company 12615486 in the United Kingdom.
- 
+extra:
+  analytics:
+    provider: google
+    property: G-ES7QJVELJ8
