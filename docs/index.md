@@ -4,9 +4,9 @@
 
 # Hi, we're MLOps Consulting 👋
 
-![Luke, Phil and Kai](images/amigos.png){ width=500px }
+![Luke, Kai, Adam and Phil](images/amigos.png){ width=700px }
 
-We are Luke, Phil and Kai.
+We are Luke, Kai, Adam and Phil.
 We are LLM and MLOps platform, product and engineering specialists.
 
 <hr />
@@ -184,6 +184,16 @@ He wrote the book on [Reinforcement Learning](https://rl-book.com/).
 **Kai Davenport, associate senior engineer**
 
 Kai is an extremely sharp software engineer who can develop high quality MLOps software and integrations at speed. He is proficient in Python, Golang and more.
+
+<div style="clear:both;"></div>
+
+![Adam Knight](images/team_adam.png){ width=200px, align=left  }
+
+<br />
+
+**Adam Knight, LLM prototype builder**
+
+Adam is a serial founder skilled at identifying and prototyping innovative solutions for complex problems. Co-founder of Astonish Email, Nocode, and Franchise Cloud, Adam has experience across various industries and excels at understanding use cases and bulldozing problems until a solution is found.
 
 <div style="clear:both;"></div>
 
