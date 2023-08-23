@@ -193,7 +193,15 @@ Kai is an extremely sharp software engineer who can develop high quality MLOps s
 
 **Adam Knight, LLM prototype builder**
 
-Adam is a serial founder skilled at identifying and prototyping innovative solutions for complex problems. Co-founder of Astonish Email, Nocode, and Franchise Cloud, Adam has experience across various industries and excels at understanding use cases and bulldozing problems until a solution is found.
+Adam is a skilled at identifying and prototyping innovative solutions for complex problems. Co-founder of Astonish Email, Nocode, and Franchise Cloud, Adam has experience across various industries and excels at understanding use cases and bulldozing problems until a solution is found.
+
+<div style="clear:both;"></div>
+
+<hr />
+
+## Blog
+
+Checkout our substack where we talk about machine learning, language models and applying this awesome tech to real world problems. <a href="https://blog.mlops.consulting/" target="_blank">MLOPs Consulting Blog</a>
 
 <div style="clear:both;"></div>
 
