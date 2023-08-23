@@ -201,7 +201,7 @@ Adam is a skilled at identifying and prototyping innovative solutions for comple
 
 ## Blog
 
-Checkout our substack where we talk about machine learning, language models and applying this awesome tech to real world problems. <a href="https://blog.mlops.consulting/" target="_blank">MLOPs Consulting Blog</a>
+Checkout our substack where we talk about machine learning, language models and applying this awesome tech to real world problems. <a href="https://blog.mlops.consulting/" target="_blank">MLOps Consulting Blog</a>
 
 <div style="clear:both;"></div>
 
